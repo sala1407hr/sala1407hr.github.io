@@ -1,0 +1,25 @@
+p { color: blue; }
+body { background-color: grey; }
+b { 
+    color: red; 
+}
+i {
+    color: purple;
+}
+u {
+    color: green;
+}
+ul li {
+    color: orange;
+}
+ol li {
+    color: pink;
+}
+/* Comentario para classes */
+.primeiro_item {
+    color: greenyellow;
+}
+/* Comentario para ids */
+#ultimo_item {
+    color: paleturquoise;
+}
